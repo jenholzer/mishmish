@@ -1,12 +1,28 @@
-mishmish
-========
-tree fruit
-=======
+#Fruit Classifications  
 
-strawberry
-=======
-land fruit
+##Tree fruit
+###Winter
+	Persimmon (http://en.wikipedia.org/wiki/Persimmon_  
+###Spring  
+###Fall	  
+###Summer
+###Year-round  
+ 
 
-seaweed
-======
-sea fruit
+___________  
+##Land fruit
+###Winter
+	Strawberry (http://en.wikipedia.org/wiki/Strawberry) 
+###Spring  
+###Fall  
+###Summer
+###Year-round  
+
+
+##Sea fruit
+###Year-round  
+	Seaweed
+		-Hijiki
+		-Waikame
+		-Nori
+
